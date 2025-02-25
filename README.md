@@ -5,7 +5,7 @@
 🌿Zusätzlich bei AssistBot Developer
 
 ## 🛠️Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
+[![Discord Presence](https://lanyard.cnrad.dev/api/867841473147830322)](https://discord.com/users/867841473147830322)
 
 
 ## 🔭GitHub Stats
